@@ -1,6 +1,6 @@
 
 
-## Project Data Visualization - Analisis Penurunan Sales Bakery di Food Delivery Bea  min
+## Project Data Visualization - Analisis Penurunan Sales Bakery di Food Delivery Bea Min
 
 
 ## A. Latar Belakang
@@ -80,7 +80,7 @@ Penjualan setiap bulannya tidak stabil dan mengalami penurunan, yang berarti tid
 * Trend penjualan di tiga distrik terbesar (Dongmyeong, Hupyeong dan Seoksa) perlu dipertahankan bahkan ditingkatkan dengan cara meningkatkan pemasaran dan jika perlu membuka cabang baru online di distrik tersebut. Penjualan Angbutter juga perlu ditingkatkan di distrik tersebut karena merupakan penyumbang penjualan terbesar, yaitu dengan cara memberikan promosi. Evaluasi menu yang kurang laku dengan cara cek harga dan kualitas produk seperti rasa dan variasi.
 
 ## I. Stakeholder
-Manajer/Supervisor Bakery dan Pemilik/CEO Franchise Bakery
+Manajer/Supervisor Bakery dan Pemilik/CEO Franchise Bakery 
 
 ## J. Link
 * Github :
