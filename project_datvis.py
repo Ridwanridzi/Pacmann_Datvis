@@ -158,4 +158,4 @@ bakery_final.info()
 sns.boxplot(data=bakery_final, x="total")
 
 # mengeksport data menjadi CSV
-bakery_final.to_csv('bakery_final.csv', index=False)
+bakery_final.to_csv('Bakery_Final.csv', index=False)
