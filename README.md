@@ -84,5 +84,5 @@ Manajer/Supervisor Bakery dan Pemilik/CEO Franchise Bakery
 
 ## J. Link
 * Medium : https://medium.com/@ridwanalfaone/analisis-penurunan-sales-pada-sebuah-bakery-shop-di-korea-80e6c85183cc
-* Linkedin :
-* Youtube : 
+* Linkedin : https://www.linkedin.com/in/ridwan-alfaridzi-21b94a14a/
+* Youtube : https://www.youtube.com/watch?v=79cKQI5tdnc
