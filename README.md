@@ -83,6 +83,6 @@ Penjualan setiap bulannya tidak stabil dan mengalami penurunan, yang berarti tid
 Manajer/Supervisor Bakery dan Pemilik/CEO Franchise Bakery 
 
 ## J. Link
-* Github :
+* Medium : https://medium.com/@ridwanalfaone/analisis-penurunan-sales-pada-sebuah-bakery-shop-di-korea-80e6c85183cc
 * Linkedin :
 * Youtube : 
